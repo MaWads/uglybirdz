@@ -1,0 +1,45 @@
+{
+  "name": "Ugly Birdz #1",
+  "description": "The Ugly Birdz are out to save the wildlife",
+  "image": "ipfs://QmdqBdtkCW77SkQFPSbdkQpPpakvaxm3FUvuGj4b1o7VNA/1.png",
+  "dna": "d6a253db3ce039a51db3e899bd97844a64489bde",
+  "edition": 1,
+  "date": 1644566883526,
+  "creator": "0xSP3RN",
+  "patronage": "Immaculate Conception, St. Joseph and St. Therese of Lisieux",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background_Grey"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Base_Teal"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Glasses_Black_Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth_Smile"
+    },
+    {
+      "trait_type": "Beaks",
+      "value": "Beak_Open_Biege"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Hat_Rounded_Yellow"
+    },
+    {
+      "trait_type": "Sweaters",
+      "value": "Sweater_Green"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Accessory_Cross_Earring_Yellow"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
